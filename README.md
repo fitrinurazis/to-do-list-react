@@ -1,4 +1,4 @@
-Build T0 do List App with Redux and React JS
+# Build T0 do List App with Redux and React JS
 This repository contains code for Todo app with react-redux.
 
 View Demo: https://to-do-list-rect-redux.vercel.app/
